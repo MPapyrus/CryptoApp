@@ -46,6 +46,8 @@ class CoinDetailActivity : AppCompatActivity() {
         })
     }
 
+
+
     companion object {
         private const val EXTRA_FROM_SYMBOL = "fSym"
 
